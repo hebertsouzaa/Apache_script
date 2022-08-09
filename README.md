@@ -1,2 +1,2 @@
 # Servidor-Linux
-Hospedar sites.
+Script de Provisionamento de um Servidor web.
